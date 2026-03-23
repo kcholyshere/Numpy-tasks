@@ -1,4 +1,6 @@
 # Programming-tasks
 Set of Leetcode, SQL, pandas and numpy tasks
 
-remote change 1
+## SSH test
+- Please tell me it's working
+- macos is a great system :) macos is a great system :) macos is a great system :) 
