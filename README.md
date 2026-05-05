@@ -1,2 +1,2 @@
-# Programming-tasks
+# Numpy-tasks
 Set of Numpy tasks
